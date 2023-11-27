@@ -1,0 +1,1 @@
+import{D as e}from"./dx-dropdown-base3-5a7aca11.js";class a extends e{connectedCallback(){super.connectedCallback()}disconnectedCallback(){super.disconnectedCallback()}toggleDropDownVisibility(){this.fieldText!==this.fieldElementValue&&this.raiseFieldChange(),super.toggleDropDownVisibility()}}export{a as D};
